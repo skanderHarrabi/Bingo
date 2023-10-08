@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+# Bingo Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple game designed for teams, specifically for Famous Landmarks Bingo. In this game, users can choose items from the bingo card. If you successfully select all the items in a diagonal, row, or column, you achieve a BINGO!
+Have fun 😇
 
-## Available Scripts
+### Installation
 
-In the project directory, you can run:
+```sh
+$ cd Bingo
+$ npm install
+```
+### Runing the app
+Starting react app at port 3000
+```sh
+$ npm start
+```
 
-### `npm start`
+### Packages
+-React
+-typescript
+-react confetti
+-antd
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Improvments
+Unfortunately, due to time constraints, the real-time multiplayer feature could not be implemented in this version. However, integrating Socket.io into both the backend and frontend of the game would enable players to engage in a seamless multiplayer experience. Future updates may bring this exciting feature to Famous Landmarks Bingo.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### ScreenShots
 
-### `npm test`
+<img width="1510" alt="Screenshot 2023-10-08 at 19 15 47" src="https://github.com/skanderHarrabi/Bingo/assets/36156046/99b850cf-f2be-4050-b1e2-d61d3c0ff6f6">
+<img width="1510" alt="Screenshot 2023-10-08 at 19 03 21" src="https://github.com/skanderHarrabi/Bingo/assets/36156046/e2aedb16-b91e-44b4-8248-d358169b5193">
+<img width="1512" alt="Screenshot 2023-10-08 at 19 03 09" src="https://github.com/skanderHarrabi/Bingo/assets/36156046/98e0fa9a-6cb3-4cfb-bca4-26097284e5eb">
+<img width="1510" alt="Screenshot 2023-10-08 at 19 02 56" src="https://github.com/skanderHarrabi/Bingo/assets/36156046/e4cb519d-6922-418d-ae76-3bed326b74a5">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
