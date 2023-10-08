@@ -14,7 +14,7 @@ const RetryModal = ({handleRetry}: {handleRetry: () => void}) => {
       )}
     >
       <h1>You Win!</h1>
-      <p>You completed the bingo game</p>
+      <p>You have successfully finished the Famous Landmarks Bingo game!</p>
     </Modal>
   );
 };
