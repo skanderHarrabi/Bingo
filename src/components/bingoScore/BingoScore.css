@@ -1,0 +1,13 @@
+.bingo-score {
+  margin: 1rem;
+}
+.bingo-letter {
+  font-size: 5rem;
+}
+.active {
+  color: #1a78bc;
+}
+
+.inactive {
+  color: #d1d1d1;
+}
