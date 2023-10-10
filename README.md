@@ -3,6 +3,9 @@
 This is a simple game designed for teams, specifically for Famous Landmarks Bingo. In this game, users can choose items from the bingo card. If you successfully select all the items in a diagonal, row, or column, you achieve a BINGO!
 Have fun 😇
 
+### Demo
+https://bingo-57z6lhxyy-skanderharrabi.vercel.app/
+
 ### Installation
 
 ```sh
