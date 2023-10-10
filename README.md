@@ -4,7 +4,7 @@ This is a simple game designed for teams, specifically for Famous Landmarks Bing
 Have fun 😇
 
 ### Demo
-https://bingo-57z6lhxyy-skanderharrabi.vercel.app/
+[https://bingo-57z6lhxyy-skanderharrabi.vercel.app/](https://bingo-btx9-421i134bs-skanderharrabi.vercel.app/)
 
 ### Installation
 
